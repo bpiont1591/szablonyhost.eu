@@ -17,5 +17,7 @@ Pomoc dla dla nowych osób
 5. ![4](https://user-images.githubusercontent.com/129689696/229597643-87032282-bd2d-44ea-b68d-96344fa607e4.png)
 
 5. Będziemy potrzebować WinSCP który możesz pobrać https://winscp.net/eng/download.php
-6.
-
+6. Poradników na YT jest bardzo dużo jak się zalogować do programu myślę że to nic trudnego
+7. Gdy już będziemy zalogowani dodajemy tam naszego bota
+8. Potem wchodzimy w Console i wystarczy dać start będzie działać jak wszystko dobrze połączyłeś!
+9. Jak masz problemy zgłoś się na serwer: https://discord.gg/ntUqUCrJTS
