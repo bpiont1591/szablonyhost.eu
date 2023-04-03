@@ -1,5 +1,5 @@
 # szablonyhost.eu
-Pomoc dla dla nowych osób
+Bardzo któtki poradnik dla nowych osób jak korzystać z szablonyhost.eu
 
 1. Tworzymy swoje konto! i logujemy się!
 
@@ -20,4 +20,5 @@ Pomoc dla dla nowych osób
 6. Poradników na YT jest bardzo dużo jak się zalogować do programu myślę że to nic trudnego
 7. Gdy już będziemy zalogowani dodajemy tam naszego bota
 8. Potem wchodzimy w Console i wystarczy dać start będzie działać jak wszystko dobrze połączyłeś!
-9. Jak masz problemy zgłoś się na serwer: https://discord.gg/ntUqUCrJTS
+9. ![5](https://user-images.githubusercontent.com/129689696/229599913-a93745d8-7c37-4ba1-8e28-5dfa631edbda.png)
+10. Jak masz problemy zgłoś się na serwer: https://discord.gg/ntUqUCrJTS
