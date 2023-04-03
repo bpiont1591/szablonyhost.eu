@@ -1,5 +1,5 @@
 # szablonyhost.eu
-Bardzo któtki poradnik dla nowych osób jak korzystać z szablonyhost.eu
+Jak korzystać z szablonyhost.eu?
 
 1. Tworzymy swoje konto! i logujemy się!
 
