@@ -2,7 +2,7 @@
 Pomoc dla dla nowych osób
 
 1. Tworzymy swoje konto! i logujemy się!
-2. 
+
 ![1](https://user-images.githubusercontent.com/129689696/229596952-f252403a-4321-4100-bfb6-800f4c44205b.png)
 
 2. Potem wybieramy serwery i swtórz serwer 
